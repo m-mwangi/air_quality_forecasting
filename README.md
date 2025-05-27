@@ -15,18 +15,18 @@ air_quality_forecasting/
 │── README.md # Project documentation
 
 ## Instructions for reproducing results
-- Download the Datasets
+- Download the Datasets:
   The training dataset is located train/ folder (air_quality_forecasting/train/) while
   The test file is located test/ folder (air_quality_forecasting/test/).
 
-- Open the Notebook
+- Open the Notebook:
   The Colab notebook, which contains the full workflow (preprocessing, model training, evaluation, and saving), is located in the notebook/ folder (air_quality_forecasting/notebook/).
 
-- Upload the Dataset
+- Upload the Dataset:
   Upload the train and test datasets to the file browser in Colab.
   Alternatively, upload the datasets to your Google Drive and mount your drive to access them.
 
-- Run the code
+- Run the code:
   Execute the notebook step by step to preprocess the data, train the model, and evaluate results.
 
 ## Suggestions
